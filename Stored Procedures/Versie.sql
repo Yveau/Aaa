@@ -1,1 +1,1 @@
-﻿create procedure Aaa.Versie as begin select 'Versie 0.0' end
+﻿create procedure Aaa.Versie as begin select 'Versie 1.0' end
